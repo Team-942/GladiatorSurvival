@@ -10,5 +10,5 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 41c05f5ae617111478101e99487d35e4, type: 3}
-  m_Name: Utility_Parameters_Fade Gluing On Animator Param
+  m_Name: Utility_Parameters_Fade Gluing On AnimatorP
   m_EditorClassIdentifier: 
